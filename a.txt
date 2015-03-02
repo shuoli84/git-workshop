@@ -1,4 +1,4 @@
-hello world
+﻿hello world
 "hi first pull, zxh" 
 
 add change
@@ -15,3 +15,7 @@ aaaa chenming add
 
 xxxxxxxxxxx
 xxxxxxxxxxx2
+"zxh_branch =======" 
+"======1" 
+"=======2" 
+"hi conflict from zxh" 
